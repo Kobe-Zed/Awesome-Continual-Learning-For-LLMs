@@ -23,6 +23,7 @@ Following [Wu et al.]([Continual Learning for Large Language Models: A Survey](h
 
 ## Continual Instruction Tuning
 ### Task
+- An Empirical Study of Catastrophic Forgetting in Large Language Models During Continual Fine-tuning. (**arXiv 2024**) [[paper]](https://arxiv.org/abs/2308.08747)
 - Bayesian Parameter-Efficient Fine-Tuning for Overcoming Catastrophic Forgetting. (**arXiv 2024**) [[paper]](http://arxiv.org/abs/2402.12220)
 - CITB: A Benchmark for Continual Instruction Tuning. (**EMNLP 2023**) [[paper]](https://aclanthology.org/2023.findings-emnlp.633/)
 - ConTinTin: Continual Learning from Task Instructions. (**ACL 2022**) [[paper]](https://aclanthology.org/2022.acl-long.218/)
