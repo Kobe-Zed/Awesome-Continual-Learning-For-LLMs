@@ -57,8 +57,10 @@ Following [Wu et al.]([Continual Learning for Large Language Models: A Survey](h
 
 ## Early Work about Continual Learning for NLP
 - Achieving Forgetting Prevention and Knowledge Transfer in Continual Learning. (**NIPS 2021**) [[paper]](https://openreview.net/pdf?id=RJ7XFI15Q8f)
+- Anatomy of Catastrophic Forgetting: Hidden Representations and Task Semantics. (**ICLR 2021**) [[paper]](https://openreview.net/forum?id=LhY8QdUGSuw)
 - An Empirical Investigation of the Role of Pre-training in Lifelong Learning. (**JMLR 2021**) [[paper]](http://arxiv.org/abs/2112.09153)
 - Catastrophic Forgetting, Rehearsal, and Pseudorehearsal. (**Connection Science 1995**) [[paper]](https://web.archive.org/web/20200222081438id_/http://www.cs.otago.ac.nz/staffpriv/anthony/publications/pdfs/Robins95.pdf)
+- Continual learning of a mixed sequence of similar and dissimilar tasks.(**NIPS 2020**) [[paper]](https://proceedings.neurips.cc/paper_files/paper/2020/file/d7488039246a405baf6a7cbc3613a56f-Paper.pdf)
 - Continual Learning for Sentence Representations Using Conceptors. (**NAACL 2019**) [[paper]](https://aclanthology.org/N19-1331/)
 - Continual Relation Learning via Episodic Memory Activation and Reconsolidation. (**ACL 2020**) [[paper]](https://aclanthology.org/2020.acl-main.573)
 - Continual Learning of Knowledge Graph Embeddings. (**RA-L 2021**) [[paper]](https://ieeexplore.ieee.org/abstract/document/9343669/)
@@ -72,6 +74,7 @@ Following [Wu et al.]([Continual Learning for Large Language Models: A Survey](h
 - Continual Pre-Training of Large Language Models: How to (re)warm your model?. (**ICML 2023**) [[paper]](https://arxiv.org/abs/2308.04014)
 - Continual Pre-Training of Language Models. (**ICLR 2023**) [[paper]](https://openreview.net/pdf?id=m_GDIItaI3o)
 - CODA-Prompt: COntinual Decomposed Attention-Based Prompting for Rehearsal-Free Continual Learning. (**CVPR 2023**) [[paper]](https://ieeexplore.ieee.org/document/10204890/)
+- Distantly supervised lifelong learning for large-scale social media sentiment analysis.(**CVPR 2023**) [[paper]](https://ieeexplore.ieee.org/document/10204890/)
 - Enhancing Lifelong Language Learning by Improving Pseudo-Sample Generation. (**ACL 2022**) [[paper]](https://direct.mit.edu/coli/article/48/4/819/112114/Enhancing-Lifelong-Language-Learning-by-Improving)
 - ELLE: Efficient Lifelong Pre-training for Emerging Data. (**ACL 2022**) [[paper]](https://aclanthology.org/2022.findings-acl.220/)
 - Episodic Memory in Lifelong Language Learning. (**NIPS 2019**) [[paper]](https://proceedings.neurips.cc/paper_files/paper/2019/file/f8d2e80c1458ea2501f98a2cafadb397-Paper.pdf)
